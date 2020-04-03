@@ -23,16 +23,16 @@ p {
 }
 
 img.logo {
-	width: 100%;
-	height: auto;
+	width: 40px;
+	height: 40px;
 	max-width: 40em;
 	max-height: 40em;
 	margin: 2em auto;
 }
 
 img.logo {
-	width: 100%;
-	height: auto;
+	width: 100px;
+	height: 100px;
 	max-width: 40em;
 	max-height: 40em;
 	margin: 2em auto;
