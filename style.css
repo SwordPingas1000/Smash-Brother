@@ -8,12 +8,12 @@ body {
 }
 
 h1 {
-	color: #867;
-	font-size: 20em;
+	color: #346;
+	font-size: 8em;
 }
 
 p {
-	color: #432;
+	color: #456;
 	max-width: 30em;
 	width: 100%;
 	text-align: left;
@@ -23,16 +23,8 @@ p {
 }
 
 img.logo {
-	width: 40px;
-	height: 40px;
-	max-width: 40em;
-	max-height: 40em;
-	margin: 2em auto;
-}
-
-img.logo {
-	width: 100px;
-	height: 100px;
+	width: 100%;
+	height: auto;
 	max-width: 40em;
 	max-height: 40em;
 	margin: 2em auto;
